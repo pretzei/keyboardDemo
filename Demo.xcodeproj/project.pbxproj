@@ -236,6 +236,8 @@
 		2B4001181CE0B0020069F9AC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0730;
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = wilab;
 				TargetAttributes = {
@@ -542,6 +544,7 @@
 				2B4001441CE0B0020069F9AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2B4001451CE0B0020069F9AC /* Build configuration list for PBXNativeTarget "DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -550,6 +553,7 @@
 				2B4001471CE0B0020069F9AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2B40016C1CE0C1F60069F9AC /* Build configuration list for PBXNativeTarget "MyKeyboard" */ = {
 			isa = XCConfigurationList;
@@ -558,6 +562,7 @@
 				2B40016E1CE0C1F60069F9AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
